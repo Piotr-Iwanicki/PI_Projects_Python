@@ -4,7 +4,7 @@ from selenium import webdriver
 driver = webdriver.Chrome(executable_path=r'C:\TestFiles\chromedriver.exe')
 
 www_list = ['https://www.techmaniak.pl/', 'https://spidersweb.pl/', 'https://www.geekweek.pl/']
-key_words = ['iphone', 'Iphone','iPhone', 'Apple', 'Microsoft', 'Xbox', 'PS5']
+key_words = ['iphone', 'Iphone', 'iPhone', 'Apple', 'Microsoft', 'Xbox', 'PS5']
 
 driver.get(www_list[0])
 
@@ -14,7 +14,7 @@ print(f"\nAnalysing: {www_list[0]}\n")
 for i in header_list:
   for x in key_words:
     if x in i.text:
-      print(" * ",i.text,"->",www_list[0] )
+      print(" * ", i.text, "->", www_list[0])
 
 driver.get(www_list[1])
 
