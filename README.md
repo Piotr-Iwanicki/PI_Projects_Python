@@ -9,3 +9,6 @@ This can be helpful when you want to display photos collected from various devic
 * header_reader.py :
 The script uses Selenium Webdriver and reads headers from selected websites, it can also search for them by keywords. 
 The script is still being expanded with new functionalities.
+
+* factorial_3_ways.py :
+The script computes the factorial value for a given number in 3 ways: using the 'math' module, computing iteratively and computing recursively.
