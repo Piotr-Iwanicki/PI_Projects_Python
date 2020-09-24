@@ -1,6 +1,6 @@
-##Welcome to GitHub PI_Projects_Python Page
+## Welcome to GitHub PI_Projects_Python Page
 
-###My projects in Python 3
+### My projects in Python 3
 
 **Currently there are 3 files in Python available:**
 
