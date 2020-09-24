@@ -13,6 +13,7 @@ The script is still being expanded with new functionalities.
 * factorial_3_ways.py :
 The script computes the factorial value for a given number in 3 ways: using the 'math' module, computing iteratively and computing recursively.
 
-23.09.2020
+23.09.2020 
 Piotr I.
-[GitHub PI_Projects_Python Page](https://piotr-iwanicki.github.io/PI_Projects_Python/)
+
+#### www site :  [GitHub PI_Projects_Python Page](https://piotr-iwanicki.github.io/PI_Projects_Python/)
