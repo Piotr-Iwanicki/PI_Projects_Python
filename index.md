@@ -23,8 +23,8 @@ print(f"* Obecnie ustawiona nazwa dla plików posortowanych to '{f_name}+kolejny
 print(f"* Obecnie wybrany katalog ze zdjęciami to: '{directory}'.")
 print(f"* Obecnie wskazany katalog ze zdjęciami posortowanymi chronologicznie to: '{dest_dir}'.")
 print("\n")
-print(f"* UWAGA ! Program zmieni nazwy zdjęć na nowe oraz skopiuje pliki z katalogu '{directory}' do '{dest_dir}'"
-      f"/ jednocześnie układając je chronologicznie.")
+print(f"* UWAGA ! Program zmieni nazwy zdjęć na nowe oraz skopiuje pliki z katalogu '{directory}' do "
+      f"/ '{dest_dir}' jednocześnie układając je chronologicznie.")
 
 
 user_choice = input("Wciśnij [Enter] by rozpocząć lub [q] by przerwać działanie skryptu: ")
