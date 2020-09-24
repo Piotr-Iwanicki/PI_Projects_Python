@@ -1,6 +1,6 @@
-#Welcome to GitHub PI_Projects_Python Page
+##Welcome to GitHub PI_Projects_Python Page
 
-##My projects in Python 3
+###My projects in Python 3
 
 ###Currently there are 3 files in Python available:
 
@@ -9,7 +9,7 @@
 2. header_reader.py : The script uses Selenium Webdriver and reads headers from selected websites, it can also search for them by keywords. The script is still being expanded with new functionalities.
 
 3. factorial_3_ways.py : The script computes the factorial value for a given number in 3 ways: using the 'math' module, computing iteratively and computing recursively.
-'''
+```
 import math
 
 number = (input("Enter a number to calculate the factorial: "))
@@ -47,5 +47,5 @@ def giverecursfactorial(x):
         return x * giverecursfactorial(x - 1)
 
 print(f'Factorial of {number} = ', giverecursfactorial(number))
-'''
+```
 
