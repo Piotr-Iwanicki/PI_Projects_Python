@@ -1,5 +1,5 @@
 # PI_Projects_Python
-My projects in Python 3
+## My projects in Python 3
 
 * photos_chronologically.py :
 The script allows you to sort photos according to the time and date the file was created and rename them to a unified one.
@@ -12,3 +12,5 @@ The script is still being expanded with new functionalities.
 
 * factorial_3_ways.py :
 The script computes the factorial value for a given number in 3 ways: using the 'math' module, computing iteratively and computing recursively.
+
+### Email: [send_email](mailto:piwanicki@outlook.com)
