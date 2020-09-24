@@ -15,3 +15,4 @@ The script computes the factorial value for a given number in 3 ways: using the 
 
 23.09.2020
 Piotr I.
+[GitHub PI_Projects_Python Page](https://piotr-iwanicki.github.io/PI_Projects_Python/)
