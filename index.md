@@ -1,8 +1,6 @@
 ## Welcome to GitHub PI_Projects_Python Page
 
-### My projects in Python 3
-
-**Currently there are 3 files in Python available:**
+#### Currently there are 3 files in Python available:
 
 1. ***photos_chronologically.py*** : The script allows you to sort photos according to the time and date the file was created and rename them to a unified one. This can be helpful when you want to display photos collected from various devices on a smartTV using a USB flash drive.
 
