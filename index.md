@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+#Welcome to GitHub PI_Projects_Python Page
 
-You can use the [editor on GitHub](https://github.com/Piotr-Iwanicki/PI_Projects_Python/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##My projects in Python 3
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###Currently there are 3 files in Python available:
 
-### Markdown
+1. photos_chronologically.py : The script allows you to sort photos according to the time and date the file was created and rename them to a unified one. This can be helpful when you want to display photos collected from various devices on a smartTV using a USB flash drive.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. header_reader.py : The script uses Selenium Webdriver and reads headers from selected websites, it can also search for them by keywords. The script is still being expanded with new functionalities.
 
-```markdown
-Syntax highlighted code block
+3. factorial_3_ways.py : The script computes the factorial value for a given number in 3 ways: using the 'math' module, computing iteratively and computing recursively.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Piotr-Iwanicki/PI_Projects_Python/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
