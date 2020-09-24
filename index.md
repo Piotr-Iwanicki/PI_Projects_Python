@@ -10,8 +10,6 @@
 
 3. factorial_3_ways.py : The script computes the factorial value for a given number in 3 ways: using the 'math' module, computing iteratively and computing recursively.
 
-# Factiorial in 3 ways
-
 import math
 
 number = (input("Enter a number to calculate the factorial: "))
