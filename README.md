@@ -13,7 +13,11 @@ The script is still being expanded with new functionalities.
 * factorial_3_ways.py :
 The script computes the factorial value for a given number in 3 ways: using the 'math' module, computing iteratively and computing recursively.
 
-23.09.2020 
+* Covid-19_API.py :
+The script allows you to check the total number of cases, deaths and active cases of Covid-19 in the world in general and in Poland. The script uses a free API to collect data. Own API key is needed (https://rapidapi.com/ for registration).
+
+
+06.10.2020 
 Piotr I.
 
 #### www site :  [GitHub PI_Projects_Python Page](https://piotr-iwanicki.github.io/PI_Projects_Python/)
