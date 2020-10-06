@@ -2,7 +2,7 @@
 
 #### Currently there are 3 files in Python available:
 
-1. ***photos_chronologically.py*** : The script allows you to sort photos according to the time and date the file was created and rename them to a unified one. This can be helpful when you want to display photos collected from various devices on a smartTV using a USB flash drive.
+***photos_chronologically.py*** : The script allows you to sort photos according to the time and date the file was created and rename them to a unified one. This can be helpful when you want to display photos collected from various devices on a smartTV using a USB flash drive.
 
 ```python
 import os
@@ -77,7 +77,7 @@ else:
 
 ```
 
-2. ***header_reader.py*** : The script uses Selenium Webdriver and reads headers from selected websites, it can also search for them by keywords. The script is still being expanded with new functionalities.
+***header_reader.py*** : The script uses Selenium Webdriver and reads headers from selected websites, it can also search for them by keywords. The script is still being expanded with new functionalities.
 
 ```python
 # Under constriction !!!
@@ -125,7 +125,7 @@ for i in header_list:
 driver.close()
 ```
 
-3. ***factorial_3_ways.py*** : The script computes the factorial value for a given number in 3 ways: using the 'math' module, computing iteratively and computing recursively.
+***factorial_3_ways.py*** : The script computes the factorial value for a given number in 3 ways: using the 'math' module, computing iteratively and computing recursively.
 
 ```python
 import math
@@ -166,7 +166,7 @@ def giverecursfactorial(x):
 
 print(f'Factorial of {number} = ', giverecursfactorial(number))
 ```
-4. ***Covid19_API.py*** : Covid-19_API.py : The script allows you to check the total number of cases, deaths and active cases of Covid-19 in the world in general and in Poland. The script uses a free API to collect data. Own API key is needed.
+***Covid19_API.py*** : Covid-19_API.py : The script allows you to check the total number of cases, deaths and active cases of Covid-19 in the world in general and in Poland. The script uses a free API to collect data. Own API key is needed.
 
 ```python
 import requests
