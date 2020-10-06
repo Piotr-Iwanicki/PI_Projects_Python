@@ -198,7 +198,8 @@ def data_seeker(key_word):
     return text_number
 
 
-user_date = input(f"Enter a date to view Covid-19 statistic (YYYY-MM-DD) or press Enter to view yesterday`s data: ")
+user_date = input(f"Enter a date to view Covid-19 statistic (YYYY-MM-DD) or press Enter to view 
+yesterday`s data: ")
 
 give_report_date(user_date)
 
