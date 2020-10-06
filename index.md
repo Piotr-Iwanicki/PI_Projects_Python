@@ -168,7 +168,7 @@ print(f'Factorial of {number} = ', giverecursfactorial(number))
 ```
 4. ***Covid19_API.py*** : Covid-19_API.py : The script allows you to check the total number of cases, deaths and active cases of Covid-19 in the world in general and in Poland. The script uses a free API to collect data. Own API key is needed.
 
-'''python
+```python
 import requests
 import datetime
 
@@ -284,6 +284,6 @@ print(f'Active cases total : {(int(text_number)):,}')
 
 data_seeker("active_diff")
 print(f'Active daily change : {(int(text_number)):,}')
-'''
+```
 
 PI
